@@ -1,5 +1,7 @@
 # Principles_Prog_Lang_CS320
-Python exercises done over Weekly Class exercises (parsers and string manipulation as of 1/26)
+Python exercises done over Weekly Class exercises 
+- parsers and string manipulation as of 1/26
+- compiler simulation of AST conversion, validation etc 1/28
 
 Working repository, will continue to catch various Python exercises. 
 

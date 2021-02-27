@@ -23,7 +23,7 @@
 #   SWAP      swap val1 and val2
 #   PRINT     print val
 #   LABEL i   nop, marking a label position in program
-#   JUMP  i   branch to Label i
+#   JUMP  :   branch to Label i
 #   JUMPZ i   if val == 0 branch to Label i
 #
 import sys
